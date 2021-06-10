@@ -1,0 +1,6 @@
+com/space/client/Response.java
+ com.space.client.Response
+com/space/client/Person.java
+ com.space.client.Person
+com/space/client/OpenNotifyClient.java
+ com.space.client.OpenNotifyClient
